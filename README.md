@@ -3,4 +3,3 @@
 
 项目环境：linux + python + echarts
 
-实时天气图片.jpg
