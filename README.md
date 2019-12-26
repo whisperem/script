@@ -4,5 +4,5 @@
 项目环境：linux + python + echarts
 
 
-# 项目效果图
+# 项目效果图展示
 ![](img/temp.jpg)
