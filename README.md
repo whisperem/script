@@ -4,5 +4,5 @@
 项目环境：linux + python + echarts
 
 
-项目效果图
-![Image text](https://github.com/whisperem/script/blob/master/%E5%AE%9E%E6%97%B6%E5%A4%A9%E6%B0%94%E5%9B%BE%E7%89%87.jpg)
+# 项目效果图
+![](实时天气图片.jpg)
